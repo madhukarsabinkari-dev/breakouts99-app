@@ -1,1 +1,6 @@
 streamlit
+pandas
+upstox-python-sdk
+pandas_ta
+plotly
+streamlit-autorefresh
